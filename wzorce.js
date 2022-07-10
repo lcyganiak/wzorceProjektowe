@@ -151,7 +151,7 @@ const dog = {
 hasZnakiSzczegole = dog.znakiSzczegolne;
 
 function add(parametr1, parametr2) {
-	if (parametr1 > 100) {
+	 if (parametr1 > 100) {
 
 	} else {
 		console.log(123)
